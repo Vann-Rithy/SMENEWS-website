@@ -4731,7 +4731,7 @@ a.badge:hover, a.badge:focus {
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
-  color: #212529;
+  color: #49ADDA;
   background-color: #014D8C;
 }
 
@@ -9636,8 +9636,8 @@ h6,
 .tranding-carousel .owl-nav .owl-prev:hover,
 .tranding-carousel .owl-nav .owl-next:hover {
   color: #FFFFFF;
-  background: #FFCC00;
-  border-color: #FFCC00;
+  background: #004682;
+  border-color: #004682;
 }
 
 .tranding-carousel.bg-white .owl-nav .owl-next {
@@ -9691,9 +9691,9 @@ h6,
 
 .news-carousel .owl-nav .owl-prev:hover,
 .news-carousel .owl-nav .owl-next:hover {
-  color: #31404B;
-  background: #FFCC00;
-  border-color: #FFCC00;
+  color: #fff;
+  background: #0366B0;
+  border-color: #004682;
 }
 
 .overlay {
