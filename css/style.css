@@ -41,6 +41,13 @@
 *::after {
   box-sizing: border-box;
 }
+.link-location{
+	color: #9A9DA2;
+}
+.link-location:hover{
+	text-decoration-line: none;
+	color: aliceblue;
+}
 .banner-slider{
 	background: #0126BF;
 	width: 50%;
