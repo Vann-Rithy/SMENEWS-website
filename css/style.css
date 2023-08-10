@@ -9410,6 +9410,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-decoration-none {
   text-decoration: none !important;
+  
 }
 
 .text-break {
@@ -9658,7 +9659,7 @@ h6,
   justify-content: space-between;
   background: #FFFFFF;
   border: 1px solid #dee2e6;
-  border-left: 5px solid #004999;
+  
 }
 
 .news-carousel .owl-nav {
