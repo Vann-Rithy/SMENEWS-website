@@ -45,6 +45,14 @@
 *::after {
   box-sizing: border-box;
 }
+.ads{
+	width: 320px;
+	height: 200px
+}
+.ads img{
+	width: 320px;
+	height: 200px
+}
 .text-title:hover{
 	text-decoration: none
 }
