@@ -650,17 +650,23 @@ pre code {
 }
 
 .container,
-.container-fluid,
+
 .container-sm,
 .container-md,
 .container-lg,
+.container-fluid,
 .container-xl {
   width: 100%;
   padding-right: 0.5rem;
   padding-left: 0.5rem;
   margin-right: auto;
   margin-left: auto;
+ 
+ 
+ 
 }
+
+
 
 @media (min-width: 576px) {
   .container, .container-sm {
