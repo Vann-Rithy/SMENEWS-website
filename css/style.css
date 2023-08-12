@@ -45,6 +45,9 @@
 *::after {
   box-sizing: border-box;
 }
+.logo-navbar{
+	
+}
 .ads{
 	width: 320px;
 	height: 200px
