@@ -45,6 +45,12 @@
 *::after {
   box-sizing: border-box;
 }
+.b {
+  line-height: 1.6;
+}
+.padding-text-a{
+	line-height: 1.6;
+}
 .logo-navbar{
 	
 }
